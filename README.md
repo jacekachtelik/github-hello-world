@@ -1,4 +1,5 @@
-# github-hello-world
-Repozytorium do nauki GitHub-a.
+# Hello World GitHub
 
-Mam na imię Jacek
+## Repozytorium do nauki GitHub-a.
+
+Tutaj będą znajdować się pliki do kursu [Szkolenie na platformie MS: Wprowadzenie do usługi Github](https://learn.microsoft.com/pl-pl/training/modules/introduction-to-github)
